@@ -36,7 +36,7 @@ CREATE TABLE `jaar2015` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
--- Dumping data for table `jaar2015`
+-- Dumping data for table `jaar2015`  SELECT `country`, `region`, `rank`, `score` FROM `jaar2016` WHERE 1
 --
 
 INSERT INTO `jaar2015` (`country`, `region`, `rank`, `score`) VALUES
